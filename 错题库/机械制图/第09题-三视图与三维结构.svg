@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 840" width="1100" height="840" role="img" aria-label="机械制图第9题：主视图、左视图、俯视图与三维结构示意">
+<title>机械制图第9题：三视图与三维示意</title>
+<rect width="1100" height="840" fill="#f8f9fb"/>
+<g font-family="Noto Sans CJK SC, Microsoft YaHei, PingFang SC, sans-serif" fill="#263e62" font-weight="700">
+<text x="56" y="41" font-size="29">第（9）题：三视图与三维结构</text>
+<text x="84" y="89" font-size="27">主视图（待补）</text>
+<text x="639" y="89" font-size="27">左视图（题目已给）</text>
+<text x="84" y="506" font-size="27">俯视图（题目已给）</text>
+<text x="640" y="506" font-size="27">三维结构（轴测示意）</text>
+</g>
+<g fill="none" stroke="#254b72" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="79.5" y="119.5" width="395" height="297"/>
+<path d="M79.5 218.5 H257 V317.5 H474.5 M257 317.5 V416.5"/>
+<path d="M638 416.5 V119.5 L966.5 317.5 V416.5 Z M802 218.5 V416.5"/>
+<path d="M79.5 545 H474.5 V765 H257 V641 H79.5 Z"/>
+</g>
+<g stroke="#254b72" stroke-width="2.5" stroke-linejoin="round">
+<path fill="#a8bfd1" d="M692 514 L732 590 V686 L692 658 Z"/>
+<path fill="#cddce7" d="M732 590 L817 615 V713 L732 686 Z"/>
+<path fill="#a8bfd1" d="M817 615 L857 691 V738 L817 713 Z"/>
+<path fill="#cddce7" d="M857 691 L942 716 V764 L857 738 Z"/>
+<path fill="#f4d699" d="M692 514 L862 564 L942 716 L857 691 L817 615 L732 590 Z"/>
+</g>
+<g font-family="Noto Sans CJK SC, Microsoft YaHei, PingFang SC, sans-serif" fill="#526b89" font-size="18">
+<text x="114" y="583">后侧（高）</text>
+<text x="279" y="740">前侧（低）</text>
+<text x="640" y="812">后高、前低；左前角缺失。仅为结构推测，非规范标准答案。</text>
+</g>
+</svg>
